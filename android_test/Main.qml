@@ -13,4 +13,3 @@ Rectangle {
         anchors.centerIn: parent
     }
 }
-
